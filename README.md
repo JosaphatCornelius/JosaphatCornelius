@@ -6,14 +6,14 @@ I build resilient backend infrastructure and highly interactive frontend experie
 
 ### 📊 GitHub Analytics
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JosaphatCornelius&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JosaphatCornelius&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=JosaphatCornelius&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=radical)
 
 ### 🛠️ Technical Operations & Stack
 * **Backend Architecture:** C#, .NET Core, Entity Framework Core, PostgreSQL, Npgsql, PHP
 * **Frontend Design:** Next.js, React, Tailwind CSS, Framer Motion
 * **Infrastructure & Security:** Linux VPS, Docker, Ansible Infrastructure as Code, APISIX API Gateway, SafeLine WAF
 * **Observability:** Prometheus, Grafana, Loki
-* **Scripting & Utilities:** Python, PaddleOCR, Kali Linux
+* **Scripting & Utilities:** Python, PaddleOCR
 
 ### 🚀 Current Engineering Initiatives
 * **Interactive Web Application:** Developed a highly dynamic, video-game-inspired portfolio using Next.js, Tailwind CSS, and Framer Motion, featuring persistent global theming, interactive audio feedback, and optimized server-side rendering for AI search visibility.
