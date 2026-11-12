@@ -16,7 +16,8 @@ I build resilient backend infrastructure and highly interactive frontend experie
 * **Scripting & Utilities:** Python, PaddleOCR, Kali Linux
 
 ### 🚀 Current Engineering Initiatives
-* **E-Ticketing Architecture:** Refactoring a C# Entity Framework Core service (`ReportService`) utilizing optimized database queries and JSON patching standards.
+* **Interactive Web Application:** Developed a highly dynamic, video-game-inspired portfolio using Next.js, Tailwind CSS, and Framer Motion, featuring persistent global theming, interactive audio feedback, and optimized server-side rendering for AI search visibility.
+* **E-Ticketing Architecture:** Refactoring a C# Entity Framework Core service by utilizing optimized database queries and JSON patching standards.
 * **Automated Data Extraction:** Developing a Python and PaddleOCR pipeline for receipt and billing data extraction, coupled with automated off-site storage workflows.
 * **Infrastructure as Code:** Provisioning and securing dedicated cloud environments with Ansible, managing traffic via APISIX, and implementing unified telemetry.
 
