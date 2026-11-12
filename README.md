@@ -2,30 +2,26 @@
 
 Full-Stack Software Engineer | Jakarta, Indonesia
 
-I build resilient backend infrastructure and highly interactive frontend experiences. My workflow bridges the gap between application development and system administration, focusing on database optimization, automated deployment pipelines, and engaging UI/UX design.
+I write C#/.NET backends, build interactive Next.js frontends, and run my own infrastructure with Ansible, Docker, and Grafana. I'm open to new roles, collaborations or opportunities.
+
+### 🚀 Projects
+* **[Portfolio website](https://github.com/JosaphatCornelius/simple-portfolio-website)** ([live](https://josaphatcornelius.tech)): Persona 3 Reload-inspired portfolio built with Next.js, Tailwind CSS, and Framer Motion, with persistent theming and audio feedback.
+* **E-Ticketing** ([backend](https://github.com/JosaphatCornelius/e-ticketing-backend), [frontend](https://github.com/JosaphatCornelius/e-ticketing-frontend)): C#/EF Core service with optimized queries and JSON Patch, plus a TypeScript frontend.
+* **[Bill OCR](https://github.com/JosaphatCornelius/personal-bill-ocr):** Python + PaddleOCR pipeline that reads bills from Google Drive and posts them to Firefly III.
+* **[VPS infrastructure](https://github.com/JosaphatCornelius/personal-vps-infrastructure):** Ansible-provisioned VPS with APISIX gateway, SafeLine WAF, and Prometheus/Grafana/Loki telemetry.
 
 ### 📊 GitHub Analytics
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JosaphatCornelius&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=radical)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JosaphatCornelius&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=JosaphatCornelius&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=radical)
-
-### 🛠️ Technical Operations & Stack
-* **Backend Architecture:** C#, .NET Core, Entity Framework Core, PostgreSQL, Npgsql, PHP
-* **Frontend Design:** Next.js, React, Tailwind CSS, Framer Motion
-* **Infrastructure & Security:** Linux VPS, Docker, Ansible Infrastructure as Code, APISIX API Gateway, SafeLine WAF
+### 🛠️ Stack
+* **Backend:** C#, .NET Core, Entity Framework Core, PostgreSQL, PHP
+* **Frontend:** Next.js, React, Tailwind CSS, Framer Motion
+* **Infrastructure & Security:** Linux, Docker, Ansible, APISIX, SafeLine WAF, Kali Linux
 * **Observability:** Prometheus, Grafana, Loki
-* **Scripting & Utilities:** Python, PaddleOCR
+* **Scripting:** Python, PaddleOCR
 
-### 🚀 Current Engineering Initiatives
-* **Interactive Web Application:** Developed a highly dynamic, video-game-inspired portfolio using Next.js, Tailwind CSS, and Framer Motion, featuring persistent global theming, interactive audio feedback, and optimized server-side rendering for AI search visibility.
-* **E-Ticketing Architecture:** Refactoring a C# Entity Framework Core service by utilizing optimized database queries and JSON patching standards.
-* **Automated Data Extraction:** Developing a Python and PaddleOCR pipeline for receipt and billing data extraction, coupled with automated off-site storage workflows.
-* **Infrastructure as Code:** Provisioning and securing dedicated cloud environments with Ansible, managing traffic via APISIX, and implementing unified telemetry.
-
-### 🎮 Side Pursuits
-* **Game Development:** Researching and prototyping core game loops and mechanics. This discipline directly influences the interactive, dynamic design principles applied in my web-based UI projects.
+### 🎮 Side pursuits
+Game development: prototyping core loops and mechanics, which feeds into the interactive design of my web projects.
 
 ### 📫 Connect
-* **Portfolio:** [josaphatcornelius.tech](https://josaphatcornelius.tech)
-* **LinkedIn:** [in/josaphat-cornelius](https://www.linkedin.com/in/josaphat-cornelius-540141277/)
-* **YouTube:** [@josaphatc](https://www.youtube.com/@josaphatc)
-* **Instagram:** [@josaphatcornelius](https://www.instagram.com/josaphatcornelius/)
+[Portfolio](https://josaphatcornelius.tech) · [LinkedIn](https://www.linkedin.com/in/josaphat-cornelius-540141277/) · [YouTube](https://www.youtube.com/@josaphatc) · [Instagram](https://www.instagram.com/josaphatcornelius/)
